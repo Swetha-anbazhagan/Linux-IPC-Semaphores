@@ -120,7 +120,7 @@ if(NUM_LOOPS>=10)    {
 
 $ ./sem.o 
 
-![Image](Screenshot from 2026-03-15 13-30-37.png)
+![Image](5a.png)
 
 
 $ ipcs
