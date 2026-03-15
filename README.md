@@ -117,7 +117,7 @@ if(NUM_LOOPS>=10)    {
 
 ## OUTPUT
 $ ./sem.o 
-
+![Screenshot](Screenshot from 2026-03-15 13-30-37.png)
 
 $ ipcs
 
