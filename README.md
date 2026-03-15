@@ -124,7 +124,7 @@ $ ./sem.o
 
 
 $ ipcs
-
+![Image](5b.png)
 
 
 
